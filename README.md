@@ -92,7 +92,7 @@ Model performance was evaluated using:
 * F1-Score
 * Confusion Matrix
 
-The final model achieved over **95% validation accuracy**.
+The final model achieved approx. **95% validation accuracy**.
 
 ---
 
