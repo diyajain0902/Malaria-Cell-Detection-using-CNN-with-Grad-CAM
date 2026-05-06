@@ -3,6 +3,7 @@ keras
 numpy
 pandas
 matplotlib
+seaborn
 opencv-python
 scikit-learn
 Pillow
